@@ -24,7 +24,7 @@ Details of this tasks can be found in source_files/assignment.txt
 
 ## Usage
 git clone the repository ---- 
-or else download spark_app.py and and taks folder 
+or else download spark_app.py and and files from tasks branch (task1 , task2 and so on) 
 ### Command Line Interface
 
 The application provides a command line interface (CLI) to process the datasets and generate the required outputs.
